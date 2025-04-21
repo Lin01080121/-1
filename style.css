@@ -1,1 +1,8 @@
-body { background: #fff5f5; font-family: sans-serif; text-align: center; padding: 50px; }
+
+body {
+  font-family: sans-serif;
+  background: #fff5f5;
+  color: #c43b68;
+  text-align: center;
+  padding: 40px;
+}
