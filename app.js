@@ -1,1 +1,1 @@
-// 後續可加互動功能
+// Express server app placeholder for login, chat, payment, VIP
